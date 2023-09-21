@@ -1,0 +1,46 @@
+.parent1
+{
+    background-image: url(./free-photo-of-paris-street.jpeg);
+    height: 1800px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.Container
+{
+    width: 80%;
+    margin:auto;
+}
+.parent2
+{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+   background-color: rgb(255, 255, 255);
+}
+.parent3
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+}
+.class
+{
+    width: 40%;
+    height: 150px;
+}
+.class1
+{
+background-color: rgb(255, 180, 176);
+}
+.class2
+{
+background-color: rgb(255, 180, 176);
+}
+.class3
+{
+ background-color: rgb(255, 180, 176); 
+}
